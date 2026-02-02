@@ -1,5 +1,5 @@
 ## Unit 0, Assignment 1 - My First Function
-Due: Friday, January 30th 2026
+Due: Monday, February 2nd 2026
 
 ### Create a Function that Mathematically Manipulates a Number
 
