@@ -1,5 +1,5 @@
 ## Unit 0, Assignment 2 - My Second Function
-Due: Monday, February 2nd 2026
+Due: Tuesday, February 3rd 2026
 
 ### Write a Function that Accepts Two or More Arguments and Displays a Sequence of Actions
 
