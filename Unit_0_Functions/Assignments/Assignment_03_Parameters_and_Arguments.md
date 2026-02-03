@@ -5,8 +5,8 @@ Due: Wednesday, February 4th 2026
 
 1.  In your edube.org canvas, write a simple function that meets the following requirements:
       * Your function has exactly three parameters.
-      * One of your parameters **DOES** have a default value.
       * Two of your parameters do **NOT** have default values.
+      * One of your parameters **DOES** have a default value.
 
 2.  Call your function using only the **positional** argument passing technique.  
 
