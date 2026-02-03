@@ -3,7 +3,7 @@ Due: Tuesday, February 3rd 2026
 
 ### Write a Function that Accepts Two or More Arguments and Displays a Sequence of Actions
 
-1.  In your edube.org canvas, write a function that accepts two or more arguments and displays a description of a sequence of actions.
+1.  In your edube.org sandbox, write a function that accepts two or more arguments and displays a description of a sequence of actions.
 
     *For example,* 
     ```python
