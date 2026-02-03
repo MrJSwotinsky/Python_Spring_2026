@@ -3,7 +3,7 @@ Due: Monday, February 2nd 2026
 
 ### Create a Function that Mathematically Manipulates a Number
 
-1.  In your edube.org canvas, use comments to describe a series of at least three mathematical manipulations you can apply to a number.
+1.  In your edube.org sandbox, use comments to describe a series of at least three mathematical manipulations you can apply to a number.
 
     *For example,* 
     ```python
